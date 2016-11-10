@@ -8,5 +8,5 @@ def upper(s):
            o = o + (l)
     return o
 
-s1 = upper('THIS DOESENT WORK. I AM TELLING YOU. WHAT A FAILURE AND WASTE OF MEMORY.')
+s1 = upper('THIS DOESENT WORK. I AM TELLING YOU. WHAT A FAILURE AND WASTE OF MEMORY HELP MEEEEE11111.')
 print s1
